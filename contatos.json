@@ -1,0 +1,14 @@
+{
+    "contatos": [
+        {
+            "id": 1,
+            "nome": "Thiago C Schwartz",
+            "email": "thiago.schwartz@email.com"
+        },
+        {
+            "id": 2,
+            "nome": "Isabelle S A Dias",
+            "email": "isabelle.dias@email.com"
+        }
+    ]
+}
