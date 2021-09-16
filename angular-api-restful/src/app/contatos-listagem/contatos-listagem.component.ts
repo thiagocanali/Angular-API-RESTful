@@ -8,7 +8,7 @@ import { ContatoService } from '../contato.service';
 })
 export class ContatosListagemComponent implements OnInit {
 
-  contatos!: Array<any>; 
+  contatos: Array<any>; 
 
   constructor(private contatoService: ContatoService) { }
 
